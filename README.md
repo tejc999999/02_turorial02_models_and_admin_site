@@ -1,0 +1,2 @@
+# 02_turorial02_models_and_admin_site
+Django1.9 tutorial02
